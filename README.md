@@ -95,16 +95,11 @@ Corrente de operação: 20mA
 
 ![image](https://github.com/moniquepavao/luminaria-terapeutica-iot/assets/160164806/a75b8f6b-f820-49b1-9292-dd4ac458ab06)
 
-## <br> :LDR (Light Dependent Resistor)
+## <br> LDR (Light Dependent Resistor)
  Sensor de luminosidade
  
 ![image](https://github.com/moniquepavao/luminaria-terapeutica-iot/assets/160164806/7caadb95-4b45-4f68-81cb-26d20a373b25)
 
-## <br> LDR (Light Dependent Resistor)
-
-![image](https://github.com/moniquepavao/luminaria-terapeutica-iot/assets/160164806/3b0644d2-6e22-4c64-a83a-db7559e25e13)
-
-![image](https://github.com/moniquepavao/luminaria-terapeutica-iot/assets/160164806/61d95582-8dab-42a3-9dbe-d5ed1a9964c8)
 
 ## <br> Resistores
 Valor: 220 OHMS 
